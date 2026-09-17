@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Mariem Guibene 👋
 
-<!--
-**Mariem0401/Mariem0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Junior Full Stack Developer**
 
-Here are some ideas to get you started:
+I'm a recent Software Engineering graduate from Tunisia, interested in building modern web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+* 🎓 Software Engineering graduate
+* 💻 Interested in **Full Stack Development**
+* 🌱 Currently learning **.NET / ASP.NET Core**
+* 🔧 I enjoy working with both frontend and backend technologies
+* 🧠 Curious and always open to learning new technologies and stacks
+* 🌍 Open to remote opportunities and relocation
+
+### 🛠️ Technologies
+
+**Frontend**
+
+* React
+* React Native
+* Angular
+* Flutter
+* HTML / CSS / Tailwind CSS
+
+**Backend**
+
+* Java / Spring Boot
+* Node.js / Express.js
+* REST APIs
+* Microservices
+
+**Databases**
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* Firebase
+
+**Tools & Technologies**
+
+* Docker
+* Git / GitLab
+* CI/CD
+* RabbitMQ
+* Selenium
+
+
+
+### 📫 Contact
+
+* 💼 LinkedIn: [Mariem Guibene](https://www.linkedin.com/in/mariem-guibene/)
+* 💻 GitHub: [Mariem0401](https://github.com/Mariem0401)
+* 🌐 Portfolio: [mariemguibene.netlify.app](https://mariemguibene.netlify.app)
+* 📧 Email: [mariemguib@gmail.com](mailto:mariemguib@gmail.com)
